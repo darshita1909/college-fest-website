@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    text-align: center;
+    background-color: #f2f5ff;
+    color: #222;
+}
+
+header {
+    background-color: #253b80;
+    color: white;
+    padding: 30px;
+}
+
+main {
+    padding: 30px;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+    line-height: 1.8;
+}
+
+button {
+    padding: 12px 22px;
+    background-color: #253b80;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #222;
+    color: white;
+    padding: 12px;
+}
